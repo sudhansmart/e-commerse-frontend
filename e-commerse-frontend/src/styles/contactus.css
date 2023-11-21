@@ -1,0 +1,20 @@
+.contactus{
+    max-width:90%;
+    max-height: 90%;
+    background-color: #f7f7f7;
+    margin: 60px auto;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px #888888;
+    padding: 50px 200px;
+}
+.contactus-title{
+    font-size: xxx-large;
+}
+.contactus-content{
+    padding: 50px 150px;
+}
+.contactus-content p{
+    margin-bottom: 0;
+    font-size: xx-large;
+
+}

@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Borel&family=Edu+SA+Beginner:wght@600&family=Montserrat:ital,wght@1,700&family=Pacifico&display=swap');
+
+.nav-bar{
+   
+    background-color:#f2b8b8d8;
+    height: 100px;
+}
+.nav-options{
+    margin-left: 0px;
+    margin-right:  100px;
+    
+}
+.container{
+    display: flex;
+}
+.nav-brand{
+   font-family: 'Pacifico', cursive;
+   margin-left: 5vh;
+}
+.nav-link {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: large;
+    font-weight: 500;
+}

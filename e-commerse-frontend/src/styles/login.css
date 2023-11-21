@@ -1,0 +1,11 @@
+.login{
+    max-width: 400px;
+    background-color: #f7f7f7;
+    margin: 60px auto;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px #888888;
+    padding: 25px;
+}
+.form-control{
+    margin-bottom: 10px;
+}
